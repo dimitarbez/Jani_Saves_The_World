@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7796d89d38d7e44aaa67216010f7030, type: 3}
-  m_Name: SecondState
+  m_Name: A Wild Koce Appears
   m_EditorClassIdentifier: 
-  storyText: BOIIIIIIIIIIIIII
+  storyText: "Jani: Koce ________\r\n1. Mi gi ukradija arduinata\r\n2. Sho si kurton"
   nextStates:
-  - {fileID: 11400000, guid: 6d76ba5e051aab94990da961ec61d51b, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 4637b557df648b145ab6fdf844570efd, type: 2}
+  - {fileID: 11400000, guid: 0d502a60a5a4e5e439699baf2c3831a6, type: 2}

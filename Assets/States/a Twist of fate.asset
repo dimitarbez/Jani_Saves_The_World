@@ -9,19 +9,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7796d89d38d7e44aaa67216010f7030, type: 3}
-  m_Name: StartingState
+  m_Name: a Twist of fate
   m_EditorClassIdentifier: 
-  storyText: 'Neeee be ne! Kako se najdov jas ovde? Kaj mi se arduinata?!
-
-
-    Vratata e zaklucena
-
-
-    Shto da pravam?
-
-    1. Skrsi ja vratata
-
-    2. Vikni koce pomagaj'
+  storyText: "Koce: profesore go vidov ilce so 5 kitoj\r\nJani: shooooooooo?\r\n1.
+    Challenge ilce to a duel\r\n2. Back off and hide in7ka"
   nextStates:
-  - {fileID: 11400000}
-  - {fileID: 11400000, guid: 1d3a9a0098b553e468cd84f0573625fa, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
